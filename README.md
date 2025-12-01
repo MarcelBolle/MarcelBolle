@@ -43,14 +43,7 @@
 
 <br/>
 
-<h3 align="center">📈 GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcelBolle&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelBolle&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
 
-<br/>
 
 <h3 align="center">🚀 Featured Projects</h3>
 <!-- <div align="center">
